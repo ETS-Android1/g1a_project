@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <PreferenceCategory android:title="Devices" >
+
+
+        <ListPreference
+            android:defaultValue="3"
+            android:dialogTitle="Change theme"
+            android:entries="@array/colors"
+            android:entryValues="@array/colors"
+            android:title="Themes" />
+
+        <Preference
+            android:title="Connect to a device" />
+
+        <RingtonePreference
+            android:defaultValue=""
+            android:key="ringtone_preference_1"
+            android:title="Set as Ringtone" />
+
+
+        <EditTextPreference
+            android:defaultValue="false"
+            android:key="edit_text_preference_1"
+            android:selectAllOnFocus="true"
+            android:singleLine="true"
+            android:title="Report a Bug and Suggestions"
+            android:visibility="visible" />
+
+    </PreferenceCategory>
+
+</PreferenceScreen>

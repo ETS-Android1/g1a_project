@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "213956473219",
+    "project_id": "seeemv2",
+    "storage_bucket": "seeemv2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:213956473219:android:040c519bd39d5acc9a86b6",
+        "android_client_info": {
+          "package_name": "com.ldt.musicr"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "213956473219-hkbsm9pp4qkbgffk8i3rag27gmj0qnkj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA-xWhtD2IlUf9WJxFYxpvsEU8H5lPkEvA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "213956473219-hkbsm9pp4qkbgffk8i3rag27gmj0qnkj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
