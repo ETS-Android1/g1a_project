@@ -10,7 +10,7 @@ Status: Design and UI complete, initial coding phase completed.
 Öykü Elis Türegün Mithat Emre Gürbüz Mostafa Higazy Saad Khan
 
 # License
-This project is licensed under The GNU General Public License v3.0 - see the LICENSE.md file for details
+This project is licensed under The GNU General Public License v3.0
 # Acknowledgments
 Le Dinh Trung (ldt) - dtrung98(https://github.com/dtrung98/MusicPlayer)
 
