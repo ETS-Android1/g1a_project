@@ -1,5 +1,4 @@
-# g1a_project
-Seeem Music App
+# Seeem Music App
 
 A music app for android with several different features.
 
